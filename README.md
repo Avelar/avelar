@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Avelar 👋
 
-<!--
-**Avelar/avelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product designer and design maneger at [@Pitzi](https://pitzi.com.br/equipe) <br>
+<!--🇧🇷 Born Brazil <br> -->
 
-Here are some ideas to get you started:
+<!--### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🧛‍♂️ Currently building a dark theme - [Dracula PRO](https://draculatheme.com/pro) <br>
+📚 Currently launching a book - [14 Habits of Highly Productive Developers](https://14habits.com)
 -->
+
+### Find me elsewhere 
+
+🚀 [Site](https://avelarfortunato.com) <br>
+📸 [Instagram](https://instagram.com/avefortunato) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/avelarfortunato) <br>
