@@ -1,6 +1,6 @@
 ### Hi there, I'm Avelar 👋
 
-Product designer and design maneger at [@Pitzi](https://pitzi.com.br/equipe) <br>
+Product designer at [@Pitzi](https://pitzi.com.br/equipe) <br>
 <!--🇧🇷 Born Brazil <br> -->
 
 <!--### What I'm working on 👨‍💻
