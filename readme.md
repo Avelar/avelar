@@ -1,14 +1,13 @@
 ### Hi there, I'm Avelar 👋
-
-Product designer at [@Pitzi](https://pitzi.com.br/equipe) <br>
+## Product designer at [@Pitzi](https://pitzi.com.br/equipe) <br>
 <!--🇧🇷 Born Brazil <br> -->
 
-<!--### What I'm working on 👨‍💻
+### What I'm working on 👨‍💻
+I'm currently leading a design team at Pitzi.
+I'm also pursuing a UX Design postgraduate degree and am in the research phase.
 
-Currently learning ...
-Currently building ...
+<!--
 Currently launching ...
-
 -->
 
 ### Find me elsewhere 
