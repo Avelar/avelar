@@ -3,7 +3,7 @@
 <!--🇧🇷 Born Brazil <br> -->
 
 ### What I'm working on 👨‍💻
-I'm currently leading a design team at Pitzi.
+I'm currently leading a design team at Pitzi.  
 I'm also pursuing a UX Design postgraduate degree and am in the research phase.
 
 <!--
